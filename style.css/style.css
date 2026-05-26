@@ -1105,6 +1105,7 @@ ul li a:hover {
     margin: 0 !important;
   }
   #my-fav .col {
+    padding: 5px 10px;
     width: 100% !important;
   }
   #my-fav .col:hover {
@@ -1240,6 +1241,13 @@ ul li a:hover {
     font-size: var(--font-3xl) !important;
   }
 
+  .contact #card-4 .icons ,.contact .cards .card{
+    display: grid !important;
+    justify-content:  !important;
+  }
+  #my-fav .col {
+    padding: 5px 20px !important;
+  }
   .jop-text {
     width: 100% !important;
   }

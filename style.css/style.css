@@ -105,7 +105,7 @@
 }
 
 [data-theme="light"] {
-  --font-theme: "Almarai", sans-serif;
+  --font-theme: "IBM Plex Sans Arabic", sans-serif;
 
   --bg-dark: #f0f2f8;
   --bg-darker: #e2e6f0;
@@ -139,7 +139,7 @@
 }
 
 [data-theme="ocean"] {
-  --font-theme: "Tajawal", sans-serif;
+  --font-theme: "Alyamama", serif;
 
   --bg-dark: #0a1a2e;
   --bg-darker: #061220;
@@ -173,7 +173,7 @@
 }
 
 [data-theme="purple"] {
-  --font-theme: "IBM Plex Sans Arabic", sans-serif;
+  --font-theme: "Days One", sans-serif;
 
   --bg-dark: #12082a;
   --bg-darker: #0c0520;
@@ -1241,9 +1241,9 @@ ul li a:hover {
     font-size: var(--font-3xl) !important;
   }
 
-  .contact #card-4 .icons ,.contact .cards .card{
+  .contact #card-4 .icons,
+  .contact .cards .card {
     display: grid !important;
-    justify-content:  !important;
   }
   #my-fav .col {
     padding: 5px 20px !important;
